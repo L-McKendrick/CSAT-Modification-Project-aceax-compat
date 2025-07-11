@@ -13,4 +13,4 @@
 <p>I made this for myself and my friends, but feel free to share ideas or report issues.</p>
 <p>Signed.</p>
 <p>Enjoy!</p>
-<p><a href="">Workshop Page</a></p>
+<p><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3522969189">Workshop Page</a></p>
