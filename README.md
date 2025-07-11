@@ -1,8 +1,8 @@
 <h1>The CSAT Modification Project | ACE3 Arsenal Extended (ACEAX) Compatibility Mod</h1>
-<p><strong>Your arsenal has never been cleaner!</strong>
+<p><strong>Your arsenal has never been cleaner!</strong> This mod will make all equipment compatible with the ACE Arsenal customization system added by the ACE3 Arsenal Extended (ACEAX) framework.
 <h2>Compatible Mods</h2>
 <ul>
-  <li><a href="https://steamcommunity.com/workshop/filedetails/?id=441854566">The CSAT Modification Project</a>by TheEvanCat.</li>
+  <li><a href="https://steamcommunity.com/workshop/filedetails/?id=441854566"> The CSAT Modification Project</a>by TheEvanCat.</li>
 </ul>
 <h2>Credits</h2>
 <ul>
