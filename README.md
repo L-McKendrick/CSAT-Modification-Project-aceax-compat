@@ -7,7 +7,7 @@
 <h2>Credits</h2>
 <ul>
   <li><strong>GrueArbre</strong> for <a href="https://steamcommunity.com/workshop/filedetails/?id=2522638637">ACE3 Arsenal Extended</a>.</li>
-  <li><strong>TubaHorse</strong> and <strong>PetMudstone</strong>, who's works I referenced while making this.</li>
+  <li><strong>TubaHorse</strong> and <strong>PetMudstone</strong>, whose works I referenced while making this.</li>
 </ul>
 <h2>Notes</h2>
 <p>I made this for myself and my friends, but feel free to share ideas or report issues.</p>
